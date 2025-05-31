@@ -12,7 +12,7 @@ Hi there! I'm a passionate software developer who enjoys solving real-world prob
   
 - 📫 **Reach me at**: [E-Mail](mailto:romtoni21@gmail.com)
 
-- ✈  **Official social media**:  [LinkedIn](https://www.linkedin.com/in/romtoni-b9953b12b/), [Facebook](https://www.facebook.com/romtoni/), [Instagram](https://www.instagram.com/romtoni14/), [Youtube](https://www.youtube.com/@codessenceyt)
+- ✈  **Official social media**:  [LinkedIn](https://www.linkedin.com/in/romtoni-b9953b12b/), [Facebook](https://www.facebook.com/romtoni/), [Instagram](https://www.instagram.com/romtoni14/), [Youtube](https://www.youtube.com/@romtoni)
 
 - 🚀 **Latest project**: [HappyFamily](https://github.com/romtoni/HappyFamily)
 
